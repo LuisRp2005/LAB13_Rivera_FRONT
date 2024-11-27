@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  background-color: rgb(54, 151, 241);
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+
+span{
+  color: white;
+}
+
+.formato01{
+  color: white;
+}
+
+.botones {
+  padding: 10px;
+  display: infline-flex;
+  column-gap: 10px;
+  margin-right: 10px;
+}
